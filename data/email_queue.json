@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "to_email": "info@premiumliving.com",
+        "to_name": "Premium Living Team",
+        "subject": "New Contact Inquiry: 8",
+        "body": "New inquiry from 12 (3@4.567.com)\n\nSubject: 8\nMessage:\n9876543210\n\n\u2014 Premium Living Furniture Contact Form",
+        "status": "queued",
+        "created_at": "2026-06-23 16:40:00"
+    },
+    {
+        "id": 2,
+        "to_email": "info@premiumliving.com",
+        "to_name": "Premium Living Team",
+        "subject": "New Contact Inquiry: 12",
+        "body": "New inquiry from 12345 (678910@11.com)\n\nSubject: 12\nMessage:\n1314151617\n\n\u2014 Premium Living Furniture Contact Form",
+        "status": "queued",
+        "created_at": "2026-06-24 11:43:07"
+    },
+    {
+        "id": 3,
+        "to_email": "info@premiumliving.com",
+        "to_name": "Premium Living Team",
+        "subject": "New Contact Inquiry: 18",
+        "body": "New inquiry from 12345 (678910@11.com)\n\nSubject: 18\nMessage:\n1920212223\n\n\u2014 Premium Living Furniture Contact Form",
+        "status": "queued",
+        "created_at": "2026-06-24 11:49:08"
+    },
+    {
+        "id": 4,
+        "to_email": "info@premiumliving.com",
+        "to_name": "Premium Living Team",
+        "subject": "New Contact Inquiry: 18",
+        "body": "New inquiry from 12345 (678910@11.com)\n\nSubject: 18\nMessage:\n1920212223\n\n\u2014 Premium Living Furniture Contact Form",
+        "status": "queued",
+        "created_at": "2026-06-24 11:50:21"
+    },
+    {
+        "id": 5,
+        "to_email": "info@premiumliving.com",
+        "to_name": "Premium Living Team",
+        "subject": "New Contact Inquiry: 18",
+        "body": "New inquiry from 12345 (678910@11.com)\n\nSubject: 18\nMessage:\naxaxaxaxaxacacacac\n\n\u2014 Premium Living Furniture Contact Form",
+        "status": "queued",
+        "created_at": "2026-06-24 12:19:09"
+    }
+]
