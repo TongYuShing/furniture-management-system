@@ -29,7 +29,7 @@ if (session_status() === PHP_SESSION_NONE) {
 }
 
 // IMPORTANT: Update this to match your folder structure
-define('BASE_URL', 'http://localhost/ITP4523M/furniture_management_system/');
+define('BASE_URL', 'http://localhost/ITP4523M/furniture-management-system/');
 define('BASE_PATH', dirname(__DIR__) . '/');
 
 // Define upload directories
